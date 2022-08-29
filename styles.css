@@ -2,7 +2,7 @@ body {
   background-color: rgb(163, 163, 163);
 }
 
-.header.index {
+.header {
   background-color: rgb(246, 245, 245);
   color: rgb(225, 105, 0);
   text-align: center;
@@ -10,7 +10,26 @@ body {
 }
 
 .list.index {
-    background-color: rgb(246, 245, 245);
-    text-align: center;
-    font-size: 32px;
+  background-color: rgb(246, 245, 245);
+  text-align: center;
+  font-size: 32px;
+}
+
+img.recipe {
+  height: auto;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  background-color: rgb(246, 245, 245);
+  color: rgb(225, 105, 0);
+  font-size: 24px;
+}
+
+.text {
+  background-color: rgb(246, 245, 245);
+  font-size: 18px;
 }
