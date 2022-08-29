@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(163, 163, 163);
+}
+
+.header.index {
+  background-color: rgb(246, 245, 245);
+  color: rgb(225, 105, 0);
+  text-align: center;
+  font-size: 42px;
+}
+
+.list.index {
+    background-color: rgb(246, 245, 245);
+    text-align: center;
+    font-size: 32px;
+}
